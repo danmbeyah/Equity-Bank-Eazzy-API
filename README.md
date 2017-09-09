@@ -1,0 +1,1 @@
+# Equity-Bank-Eazzy-API
