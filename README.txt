@@ -2,6 +2,8 @@ EQUITY BANK EAZZY API INTEGRATION
 
 Developer: Daniel Mbeyah ( danmbeyah@gmail.com )
 
+This is a simple core PHP example on Eazzy API integration. If you are using a PHP framework you will need to adopt the code to your framework.
+
 Use Case:
 1. Allows merchant to send money to other accounts from their Equity Bank account (Equity and other banks)
 2. Allows merchant to buy airtime for other mobile numbers from their Equity Bank account (Equitel, Safaricom, Airtel)
